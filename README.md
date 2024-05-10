@@ -50,7 +50,11 @@
 * Зафиксировано отображение метрик Grafana по результатам выполнения профиля нагрузки -
   <a href="https://github.com/Nephedov/Performance-test_Load-web/blob/main/Additional%20task/Screenshots/GrafanaJmeterMetrics.png">GrafanaJmeterMetrics.png</a>.
 
-  
+ 
+---
+---
+
+ 
 
 ## Предусловие задания:
 * Провести раунд тестирования добавления комментария
